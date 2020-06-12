@@ -52,7 +52,7 @@ int main(int argc, char* argv[])
 {
 	int boardSize = 11;
 	int myColor = 1;
-	int depth = 4;
+	int depth = 2;
 	
 	// Read Command Line Arguments
 
